@@ -12,7 +12,8 @@ This is the final build of the Schedule Generator Application.
 3. CLick ` Download ZIP `
 ![download](/example_images/download.png)
 
-4. Extract the Files
+4. Extract the Files.
+
 ![extract](/example_images/extract.png)
 
 5. Run the ` ScheduleGenerator.exe ` file. This may prompt a warning from windows to not run it, click ` Run Anyway ` to start the app.
