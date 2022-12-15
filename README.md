@@ -7,17 +7,17 @@ This is the final build of the Schedule Generator Application.
 1. Go to the [Github Repository](https://github.com/SowinskiBraeden/ScheduleGeneratorEXE)
 
 2. Click on the green code button.
-[code](/example_images/code.png)
+![code](/example_images/code.png)
 
 3. CLick ` Download ZIP `
-[download](/example_images/download.png)
+![download](/example_images/download.png)
 
 4. Extract the Files
-[extract](/example_images/extract.png)
+![extract](/example_images/extract.png)
 
 5. Run the ` ScheduleGenerator.exe ` file. This may prompt a warning from windows to not run it, click ` Run Anyway ` to start the app.
-[more](/example_images/more-info.png)
-[run](/example_images/run.png)
+![more](/example_images/more-info.png)
+![run](/example_images/run.png)
 
 Select the [course selection data file](/example/course_selection_data_example.csv) from the ` example ` folder and click ` Generate `.
 
